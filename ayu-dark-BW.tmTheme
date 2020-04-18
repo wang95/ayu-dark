@@ -80,6 +80,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>User-defined constant</string>
+			<key>scope</key>
+			<string>constant.character, constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffcc66</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Constants</string>
 			<key>scope</key>
 			<string>meta.constant, entity.name.constant</string>
